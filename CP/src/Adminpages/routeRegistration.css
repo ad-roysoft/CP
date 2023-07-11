@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.routeregistration_container {
+  font-family: "Poppins", sans-serif;
+}
+label,
+input,
+textarea,
+button,
+select {
+  font-family: inherit;
+}
+
+.frm_grp {
+  display: flex;
+  align-items: center;
+  margin-bottom: 6px;
+}
+
+.div_btn {
+  padding-left: 10px;
+}
+
+.search-bar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  gap: 1.5rem;
+  align-items: center;
+}
+.ph-number {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  margin-bottom: 0;
+}
